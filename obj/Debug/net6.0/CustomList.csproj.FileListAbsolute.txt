@@ -1,0 +1,15 @@
+/Users/ragimovragim/Desktop/CustomList/CustomList/bin/Debug/net6.0/CustomList
+/Users/ragimovragim/Desktop/CustomList/CustomList/bin/Debug/net6.0/CustomList.deps.json
+/Users/ragimovragim/Desktop/CustomList/CustomList/bin/Debug/net6.0/CustomList.runtimeconfig.json
+/Users/ragimovragim/Desktop/CustomList/CustomList/bin/Debug/net6.0/CustomList.dll
+/Users/ragimovragim/Desktop/CustomList/CustomList/bin/Debug/net6.0/CustomList.pdb
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.csproj.AssemblyReference.cache
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.AssemblyInfoInputs.cache
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.AssemblyInfo.cs
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.csproj.CoreCompileInputs.cache
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.dll
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/refint/CustomList.dll
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.pdb
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/CustomList.genruntimeconfig.cache
+/Users/ragimovragim/Desktop/CustomList/CustomList/obj/Debug/net6.0/ref/CustomList.dll
